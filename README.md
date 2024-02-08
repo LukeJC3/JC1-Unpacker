@@ -1,5 +1,5 @@
 # JC1 Unpacker
-Tool for extract ARC archives from game - [Just Cause](https://store.steampowered.com/app/6880/Just_Cause)
+Tool to extract the archives of - [Just Cause 1](https://store.steampowered.com/app/6880/Just_Cause) and its demo
 
 | Game   | Steam   | SteamDB   |
 |---      |---    |---    |
