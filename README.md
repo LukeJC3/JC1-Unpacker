@@ -6,5 +6,5 @@ Worry not, there is an already built version [here](https://github.com/LukeJC3/J
 
 | Game   | Known files   | Known%   |
 |---      |---    |---    |
-| Just Cause | 5423/7000 | 77.47%
+| Just Cause | 6510/7000 | 93%
 | Just Cause Demo | 3650/3650 | 100%
